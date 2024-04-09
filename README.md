@@ -1,2 +1,2 @@
 # Personal_assistant
-AI based personal assistant
+AI based personal assistant for everyone 
